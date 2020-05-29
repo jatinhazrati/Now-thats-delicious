@@ -1,7 +1,7 @@
 # Now That Delicious
 
 This is a food store locator built with Node.js, Express, MongoDB & friends...
-Here's the running project: https://nowthatdelicious.herokuapp.com/(It is beign hosted on a free heroku site so initial load make take some time)
+Here's the running project: https://nowthatdelicious.herokuapp.com/ (It is beign hosted on a free heroku site so initial load make take some time)
 
 ## What is this?
 
