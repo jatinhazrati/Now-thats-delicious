@@ -1,7 +1,7 @@
 # Now That Delicious
 
-This is a course made by Wes Bos. I bumped up all of the packages versions and changed from Google Maps to Mapbox.
-Here's the running project: (It is beign hosted on a free heroku site so initial load make take some time)
+This is a food store locator built with Node.js, Express, MongoDB & friends...
+Here's the running project: https://nowthatdelicious.herokuapp.com/(It is beign hosted on a free heroku site so initial load make take some time)
 
 ## What is this?
 
