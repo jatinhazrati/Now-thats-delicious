@@ -1,10 +1,8 @@
 # Now That's Delicious!
 
-👋 there, and welcome to the repository for _Now That's Delicious!_ This project is a single page application I developed in an attempt to learn how to use JavaScript to create the backend of a site! It takes advantage of **Node**, **Express**, and **MongoDB**, and definitely keeps true to traditional **MVC** design principals.
+👋 there, and welcome to the repository for _Now That's Delicious!_ This project is a single page application I developed in an attempt to learn how to use JavaScript to create the backend of a site! It takes advantage of **Node**, **Express**, and **MongoDB Atlas**, and definitely keeps true to traditional **MVC** design principals.
 
 Lastly, you can check out the finished product over at [https://nowthatdelicious.herokuapp.com/](https://nowthatdelicious.herokuapp.com/).
-
-Since it's hosted on a free-tier Heroku dyno, it might take about 25-30 seconds for it's initial spin up! These free server instances fall asleep after 30 min of inactivity 😅😅😅!
 
 ## Using the app
 
@@ -39,11 +37,3 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 | Name          | Email (login)          | Password |
 | ------------- | ---------------------- | -------- |
 | Jatin Hazrati | jatinhazrati@gmail.com | jatin123 |
-| Wes Bos       | wes@example.com        | wes      |
-| Debbie Downer | debbie@example.com     | debbie   |
-| Beau          | beau@example.com       | beau     |
-
-## Creds
-
-This app was developed through the help of a wonderful course by [Wes Bos](https://wesbos.com) entitled [Learn Node](learnnode.com). In case you've just found this repository in a similar attempt to learn how to develop backend JS applications, I definitely recommend the course and wish you the best of luck!
-
