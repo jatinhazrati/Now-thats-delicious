@@ -2,8 +2,6 @@
 
 👋 there, and welcome to the repository for _Now That's Delicious!_ This project is a single page application I developed in an attempt to learn how to use JavaScript to create the backend of a site! It takes advantage of **Node**, **Express**, and **MongoDB Atlas**, and definitely keeps true to traditional **MVC** design principals.
 
-Lastly, you can check out the finished product over at [https://nowthatdelicious.herokuapp.com/](https://nowthatdelicious.herokuapp.com/).
-
 ## Using the app
 
 Haven't you ever wanted a place to keep track of your favorite local eateries? Well this app is just for you! Upon launch, you'll be greeted a bunch of _stores_ that have been uploaded by other users. The descriptions, images, reviews, and locations are all specified by the user.
